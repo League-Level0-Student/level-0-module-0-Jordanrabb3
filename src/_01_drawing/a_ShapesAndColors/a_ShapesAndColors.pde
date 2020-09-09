@@ -1,6 +1,6 @@
 // 1. Run this empty program 
 // The grey square that appears has sides that are 100 pixels long
- 
+  
 // 2. Code a size command to make it big enough for your picture
 
 //    The size command looks like this:      
